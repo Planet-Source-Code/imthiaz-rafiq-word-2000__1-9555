@@ -1,0 +1,17 @@
+Programmed by Imthiaz
+
+If Copy any image into clipboard and you can paste it inside
+
+Please mail me how the program looks and u feel
+
+imthiazrafiq@hotmail.com
+
+---------------------------------
+Files needed to run this program
+---------------------------------
+COMCAT.DLL
+MSCOMCTL.OCX
+RICHTX32.OCX
+FM20.DLL
+COMDLG32.OCX
+----------------------------------
